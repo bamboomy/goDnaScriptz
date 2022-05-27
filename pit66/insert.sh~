@@ -1,0 +1,4 @@
+
+mysql --user=genetic --password=Str1ktG3h31^^ genetic << EOF
+INSERT INTO genetic (\`hash\`, \`path\`, \`score\`) VALUES ("ccc", "0/dna$1", $2);
+EOF

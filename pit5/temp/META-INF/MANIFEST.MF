@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Created-By: 11.0.15 (Private Build)
+Main-Class: net.sf.gogui.tools.dummy.Main
+

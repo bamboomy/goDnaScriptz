@@ -1,0 +1,9 @@
+
+
+hash=$(md5sum $1)
+
+echo $hash
+
+IN="$hash"
+arrIN=(${IN// / })
+echo ${arrIN[0]}
