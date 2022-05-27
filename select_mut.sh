@@ -3,12 +3,3 @@ output=$(mysql genetic --user=genetic --password=Str1ktG3h31^^ -se "SELECT path 
 
 echo "$output"
 
-counter=0
-
-while read p; do
-  echo "line: $p"
-  
-  cp ../gens/$p ../gens/1/parents/((counter%2))/
-  counter=$((counter+1))
-  
-done <<< "$output"

@@ -1,0 +1,10 @@
+
+cd ../gens/1/children/
+
+#java -jar ../../../jars/pairer.jar ../parents/dna101 ../parents/dna103 test1 test2
+
+var0=$(cat pair_jars.txt)
+var1=$(ls ../parents/0)
+var2=$(ls ../parents/1)
+
+paste <(tr ' ' '\n' <<<"$var0") <(tr ' ' '\n' <<<"$var1") <(tr ' ' '\n' <<<"$var2")
