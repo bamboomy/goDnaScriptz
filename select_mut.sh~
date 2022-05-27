@@ -13,7 +13,6 @@ while read p; do
         if ! (($res)) 
         then 
         	echo $p
-		echo $rand
         	rand=$(($RANDOM/2000))
         	line_counter=$((line_counter+1))
         fi
