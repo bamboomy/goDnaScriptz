@@ -24,3 +24,5 @@ while read p; do
 done <../../../scriptz/final_pair_temp.sh
 
 chmod 700 final_pair.sh
+
+cp ../../../scriptz/pair_and_insert.sh .

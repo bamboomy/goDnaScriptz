@@ -1,50 +1,50 @@
-java -jar ../../../jars/pairer.jar ../parents/0/+dna101
-java -jar ../../../jars/pairer.jar ../parents/0/+dna127
-java -jar ../../../jars/pairer.jar ../parents/0/+dna135
-java -jar ../../../jars/pairer.jar ../parents/0/+dna143
-java -jar ../../../jars/pairer.jar ../parents/0/+dna175
-java -jar ../../../jars/pairer.jar ../parents/0/+dna204
-java -jar ../../../jars/pairer.jar ../parents/0/+dna218
-java -jar ../../../jars/pairer.jar ../parents/0/+dna24
-java -jar ../../../jars/pairer.jar ../parents/0/+dna244
-java -jar ../../../jars/pairer.jar ../parents/0/+dna264
-java -jar ../../../jars/pairer.jar ../parents/0/+dna288
-java -jar ../../../jars/pairer.jar ../parents/0/+dna293
-java -jar ../../../jars/pairer.jar ../parents/0/+dna339
-java -jar ../../../jars/pairer.jar ../parents/0/+dna346
-java -jar ../../../jars/pairer.jar ../parents/0/+dna375
-java -jar ../../../jars/pairer.jar ../parents/0/+dna377
-java -jar ../../../jars/pairer.jar ../parents/0/+dna424
-java -jar ../../../jars/pairer.jar ../parents/0/+dna448
-java -jar ../../../jars/pairer.jar ../parents/0/+dna552
-java -jar ../../../jars/pairer.jar ../parents/0/+dna556
-java -jar ../../../jars/pairer.jar ../parents/0/+dna563
-java -jar ../../../jars/pairer.jar ../parents/0/+dna580
-java -jar ../../../jars/pairer.jar ../parents/0/+dna582
-java -jar ../../../jars/pairer.jar ../parents/0/+dna583
-java -jar ../../../jars/pairer.jar ../parents/0/+dna589
-java -jar ../../../jars/pairer.jar ../parents/0/+dna605
-java -jar ../../../jars/pairer.jar ../parents/0/+dna613
-java -jar ../../../jars/pairer.jar ../parents/0/+dna615
-java -jar ../../../jars/pairer.jar ../parents/0/+dna637
-java -jar ../../../jars/pairer.jar ../parents/0/+dna64
-java -jar ../../../jars/pairer.jar ../parents/0/+dna653
-java -jar ../../../jars/pairer.jar ../parents/0/+dna66
-java -jar ../../../jars/pairer.jar ../parents/0/+dna668
-java -jar ../../../jars/pairer.jar ../parents/0/+dna703
-java -jar ../../../jars/pairer.jar ../parents/0/+dna706
-java -jar ../../../jars/pairer.jar ../parents/0/+dna722
-java -jar ../../../jars/pairer.jar ../parents/0/+dna753
-java -jar ../../../jars/pairer.jar ../parents/0/+dna766
-java -jar ../../../jars/pairer.jar ../parents/0/+dna772
-java -jar ../../../jars/pairer.jar ../parents/0/+dna812
-java -jar ../../../jars/pairer.jar ../parents/0/+dna816
-java -jar ../../../jars/pairer.jar ../parents/0/+dna847
-java -jar ../../../jars/pairer.jar ../parents/0/+dna869
-java -jar ../../../jars/pairer.jar ../parents/0/+dna885
-java -jar ../../../jars/pairer.jar ../parents/0/+dna886
-java -jar ../../../jars/pairer.jar ../parents/0/+dna892
-java -jar ../../../jars/pairer.jar ../parents/0/+dna904
-java -jar ../../../jars/pairer.jar ../parents/0/+dna913
-java -jar ../../../jars/pairer.jar ../parents/0/+dna957
-java -jar ../../../jars/pairer.jar ../parents/0/+dna970
+./pair_and_insert.sh ../parents/0/+dna137
+./pair_and_insert.sh ../parents/0/+dna157
+./pair_and_insert.sh ../parents/0/+dna170
+./pair_and_insert.sh ../parents/0/+dna177
+./pair_and_insert.sh ../parents/0/+dna179
+./pair_and_insert.sh ../parents/0/+dna186
+./pair_and_insert.sh ../parents/0/+dna193
+./pair_and_insert.sh ../parents/0/+dna203
+./pair_and_insert.sh ../parents/0/+dna204
+./pair_and_insert.sh ../parents/0/+dna209
+./pair_and_insert.sh ../parents/0/+dna218
+./pair_and_insert.sh ../parents/0/+dna221
+./pair_and_insert.sh ../parents/0/+dna230
+./pair_and_insert.sh ../parents/0/+dna232
+./pair_and_insert.sh ../parents/0/+dna24
+./pair_and_insert.sh ../parents/0/+dna240
+./pair_and_insert.sh ../parents/0/+dna241
+./pair_and_insert.sh ../parents/0/+dna255
+./pair_and_insert.sh ../parents/0/+dna257
+./pair_and_insert.sh ../parents/0/+dna26
+./pair_and_insert.sh ../parents/0/+dna267
+./pair_and_insert.sh ../parents/0/+dna277
+./pair_and_insert.sh ../parents/0/+dna278
+./pair_and_insert.sh ../parents/0/+dna284
+./pair_and_insert.sh ../parents/0/+dna290
+./pair_and_insert.sh ../parents/0/+dna291
+./pair_and_insert.sh ../parents/0/+dna293
+./pair_and_insert.sh ../parents/0/+dna297
+./pair_and_insert.sh ../parents/0/+dna305
+./pair_and_insert.sh ../parents/0/+dna329
+./pair_and_insert.sh ../parents/0/+dna333
+./pair_and_insert.sh ../parents/0/+dna36
+./pair_and_insert.sh ../parents/0/+dna38
+./pair_and_insert.sh ../parents/0/+dna43
+./pair_and_insert.sh ../parents/0/+dna45
+./pair_and_insert.sh ../parents/0/+dna51
+./pair_and_insert.sh ../parents/0/+dna515
+./pair_and_insert.sh ../parents/0/+dna53
+./pair_and_insert.sh ../parents/0/+dna55
+./pair_and_insert.sh ../parents/0/+dna57
+./pair_and_insert.sh ../parents/0/+dna62
+./pair_and_insert.sh ../parents/0/+dna655
+./pair_and_insert.sh ../parents/0/+dna658
+./pair_and_insert.sh ../parents/0/+dna697
+./pair_and_insert.sh ../parents/0/+dna787
+./pair_and_insert.sh ../parents/0/+dna81
+./pair_and_insert.sh ../parents/0/+dna83
+./pair_and_insert.sh ../parents/0/+dna937
+./pair_and_insert.sh ../parents/0/+dna97
+./pair_and_insert.sh ../parents/0/+dna979
