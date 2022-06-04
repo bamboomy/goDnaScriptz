@@ -10,7 +10,13 @@ rm -Rf genetic
 java -jar ../../../jars/parser.jar
 ./insert.sh
 cd src
-javac -cp .:../lib/log4j-1.2.17.jar */*.java */*/*/*/*.java */*/*/*/*/*.java
+
+if ! javac -cp .:../lib/log4j-1.2.17.jar */*.java */*/*/*/*.java */*/*/*/*/*.java
+then
+
+	exit 1
+fi
+       
 jar cvfe dummy.jar net.sf.gogui.tools.dummy.Main */*.class */*/*/*/*.class */*/*/*/*/*.class
 
 cp dummy.jar ~/genetic/pit/pit$3/
