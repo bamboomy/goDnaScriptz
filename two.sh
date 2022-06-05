@@ -17,7 +17,7 @@ then
 	exit 1
 fi
        
-#jar cvfe dummy.jar net.sf.gogui.tools.dummy.Main */*.class */*/*/*/*.class */*/*/*/*/*.class
+jar cvfe dummy.jar net.sf.gogui.tools.dummy.Main */*.class */*/*/*/*.class */*/*/*/*/*.class
 
 cp dummy.jar ~/genetic/pit/pit$3/
 
