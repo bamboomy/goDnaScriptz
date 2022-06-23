@@ -2,7 +2,7 @@
 cp $1 /home/sander/genetic/parser/parser$2/goDnaGtpNoGit/test
 
 first=$(md5sum $1)
-rm ../pit/pit$3/hash/*
+rm ~/genetic/pit/pit$3/hash/*
 
 cd /home/sander/genetic/parser/parser$2/goDnaGtpNoGit/
 

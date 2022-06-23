@@ -1,0 +1,3 @@
+
+
+cp -r ../gens/stub/ ../gens/$1

@@ -1,11 +1,11 @@
 
-cd ../gens/1/children/
+rm pair_first_parent.sh
 
-#java -jar ../../../jars/pairer.jar ../parents/dna101 ../parents/dna103 test1 test2
+cd ../gens/$1/children/
 
-rm ../../../scriptz/pair_first_parent.sh
+../../../scriptz/write_pair_jars.txt.sh $1
 
-var0=$(cat ../../../scriptz/pair_jars.txt)
+var0=$(cat pair_jars.txt)
 var1=$(ls ../parents/0)
 
 paste -d + <(tr '\n' '\n' <<<"$var0") <(tr ' ' '\n' <<<"$var1") > ../../../scriptz/temp_pair.sh
@@ -20,7 +20,7 @@ var2=$(ls ../parents/1)
 paste -d + <(tr '\n' '\n' <<<"$var0") <(tr ' ' '\n' <<<"$var2") > ../../../scriptz/final_pair_temp.sh
 
 while read p; do
-  echo "$p child_1_$RANDOM child_2_$RANDOM" | sed -r 's/\+//g' >> final_pair.sh
+  echo "$p child_1_$RANDOM child_2_$RANDOM $1" | sed -r 's/\+//g' >> final_pair.sh
 done <../../../scriptz/final_pair_temp.sh
 
 chmod 700 final_pair.sh

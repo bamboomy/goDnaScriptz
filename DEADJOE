@@ -1,0 +1,91 @@
+
+*** These modified files were found in JOE when it aborted on Sun Jun  5 15:33:42 2022
+*** JOE was aborted because the terminal closed
+
+*** File '(Unnamed)'
+./pair_and_insert.sh
+pair_and_insert.sh
+mut
+../../../scriptz/pair_jars.txt
+
+*** File '(Unnamed)'
+java -jar ../../../jars/pairer.jar
+pair
+pair_jars.txt
+
+*** File '(Unnamed)'
+copy.sh
+copy.sh
+stub.sh
+select.sh
+select_mut.sh
+write_pair.sh
+write_pair.sh
+final_pair.sh
+write_pair.sh
+write_pair_jars.txt.sh
+write_pair.sh
+
+*** File '* Startup Log *'
+Processing '/etc/joe/joerc'...
+Processing '/etc/joe/ftyperc'...
+Finished processing /etc/joe/ftyperc
+Finished processing /etc/joe/joerc
+
+*** These modified files were found in JOE when it aborted on Thu Jun 23 04:59:30 2022
+*** JOE was aborted by UNIX signal 15
+
+*** File 'purge.sh'
+
+output=$(mysql genetic --user=genetic --password=Str1ktG3h31^^ -se "SELECT score FROM genetic ORDER BY score DESC limit 1000,1;")
+
+echo $output
+
+remove=$(mysql genetic --user=genetic --password=Str1ktG3h31^^ -se "SELECT path FROM genetic where score < $output or score ;")
+
+rm purgeOut.sh
+
+for i in $remove
+do
+	echo rm ../gens/$i >> purgeOut.sh
+done
+
+chmod 700 purgeOut.sh
+./purgeOut.sh
+*** File '(Unnamed)'
+./pair_and_insert.sh
+pair_and_insert.sh
+mut
+../../../scriptz/pair_jars.txt
+../../$1/parents/1
+../../$1/parents/1
+$1
+$1
+
+*** File '(Unnamed)'
+java -jar ../../../jars/pairer.jar
+pair
+pair_jars.txt
+../../../scriptz/
+../parents/$1
+../parents/$1
+1
+
+*** File '(Unnamed)'
+purge.sh
+purge.sh
+purge.sh
+purge.sh
+purge.sh
+purge.sh
+purge.sh
+purge
+purge.sh
+purge.sh
+purge.sh
+
+*** File '* Startup Log *'
+Processing '/etc/joe/joerc'...
+Processing '/etc/joe/ftyperc'...
+Finished processing /etc/joe/ftyperc
+Finished processing /etc/joe/joerc

@@ -5,7 +5,7 @@ counter=1
 
 stop=false
 
-for i in ../gens/1/children/child*
+for i in ../gens/$1/children/child*
 do
 
 	echo $i 0 $counter
@@ -14,7 +14,7 @@ do
 	
 		stop=true
 		
-#		break
+		break
 	fi
 	
 	counter=$((counter+1))
@@ -22,7 +22,7 @@ done
 
 if [ "$stop" = "false" ]; then
 
-	for i in ../gens/1/mutated/*
+	for i in ../gens/$1/mutated/*
 	do
 
 	        echo $i 0 $counter

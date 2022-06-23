@@ -1,5 +1,5 @@
 
-for i in {3..1000}
+for i in {231..1000}
 do
 	./gen.sh $i
 	

@@ -13,7 +13,7 @@ while read p; do
         if ! (($res)) 
         then 
         	echo $p
-        	cp ../gens/$p ../gens/1/mutaterz/mutatee_$line_counter
+        	cp ../gens/$p ../gens/$1/mutaterz/mutatee_$line_counter
         	rand=$(($RANDOM/2000))
         	line_counter=$((line_counter+1))
         fi

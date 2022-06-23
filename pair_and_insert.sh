@@ -1,5 +1,5 @@
 
-echo $1 $2 $3 $4
+echo $1 $2 $3 $4 $5
 
 java -jar ../../../jars/pairer.jar $1 $2 $3 $4
 
@@ -27,6 +27,6 @@ arrIN=(${IN// / })
 fourthMd5=${arrIN[0]}
 
 mysql --user=genetic --password=Str1ktG3h31^^ genetic << EOF
-INSERT INTO genetic (\`hash\`, \`path\`, \`parent1\`, \`parent2\`) VALUES ("$thirdMd5", "1/children/$3", "$firstMd5", "$secondMd5");
-INSERT INTO genetic (\`hash\`, \`path\`, \`parent1\`, \`parent2\`) VALUES ("$fourthMd5", "1/children/$4", "$firstMd5", "$secondMd5");
+INSERT INTO genetic (\`hash\`, \`path\`, \`parent1\`, \`parent2\`) VALUES ("$thirdMd5", "$5/children/$3", "$firstMd5", "$secondMd5");
+INSERT INTO genetic (\`hash\`, \`path\`, \`parent1\`, \`parent2\`) VALUES ("$fourthMd5", "$5/children/$4", "$firstMd5", "$secondMd5");
 EOF
