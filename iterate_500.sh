@@ -1,7 +1,7 @@
 
 before=$(date)
 
-for i in {1..110}
+for i in {500..749}
 do
 	cd /home/sander/genetic/pit/pit$i
 	./battle.sh $i

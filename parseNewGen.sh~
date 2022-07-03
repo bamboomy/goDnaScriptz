@@ -10,34 +10,40 @@ do
 
 	echo $i 0 $counter
 
-	if ! ./two.sh $i 0 $counter; then
-	
-		stop=true
-		
-		break
+	if (((($counter%3)) < "2"))
+	then
+
+		./two.sh $i "(($counter%3))" $counter &
+	else
+		./two.sh $i "(($counter%3))" $counter &
+
+		wait
 	fi
 	
 	counter=$((counter+1))
 done
 
-if [ "$stop" = "false" ]; then
+wait
 
 	for i in ../gens/$1/mutated/*
 	do
 
 	        echo $i 0 $counter
+	        
+	        if (((($counter%3)) < "2"))
+	        then
 
-		if ! ./two.sh $i 0 $counter; then
-
-                	stop=true
-
-	                break
-        	fi
+			./two.sh $i "(($counter%3))" $counter &
+		else
+			./two.sh $i "(($counter%3))" $counter &
+			
+			wait
+		fi
 
         	counter=$((counter+1))
 	done
 
-fi
+wait
 
 after=$(date)
 

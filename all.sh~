@@ -1,9 +1,9 @@
 
-for i in {231..1000}
+for i in {90..1000}
 do
 	./gen.sh $i
 	
-#	./purge.sh
+	./purge.sh
 
 	if test -f "cooldown"; then
 		echo "cooling down..."
