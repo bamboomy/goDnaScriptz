@@ -5,16 +5,16 @@ counter=1
 
 for i in {1..110}
 do
-	if (((($counter%10)) < "9"))
-        then	
+#	if (((($counter%10)) < "9"))
+#        then	
 		cd /home/sander/genetic/pit/pit$i
-		./battle.sh $i &
-	else
-		cd /home/sander/genetic/pit/pit$i
-                ./battle.sh $i &
+		./battle.sh $i 
+#	else
+#		cd /home/sander/genetic/pit/pit$i
+ #               ./battle.sh $i &
                 
-                wait
-	fi
+  #              wait
+#	fi
 	
 	counter=$((counter+1))
 done
