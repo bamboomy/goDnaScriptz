@@ -67,16 +67,17 @@ $result4 = $conn->query($sql4);
 			
 			shown[suffix] = !shown[suffix];
 		}
+		
 	</script>
 </head>
 <body>
-<div style="position:absolute; top: 10px; left: 10px; border-style: solid; padding: 5px;">
+<div style="position:fixed; top: 10px; left: 10px; border-style: solid; padding: 5px;">
 <?
 	echo "Current generation: ".$pieces[0]."th";
 ?>
 </div>
 
-<div style="position:absolute; top: 10px; right: 10px; border-style: solid; padding: 5px;">
+<div style="position:fixed; top: 10px; right: 10px; border-style: solid; padding: 5px;">
 <?
 	$file = fopen ("http://46.101.182.12/stats.php", "r");
 	while (!feof ($file)) {
@@ -90,6 +91,10 @@ fclose($file);
 ?>
 </div>
 
+<div style="position:fixed; bottom:10px; right:10px;">
+	<span onclick="window.scrollTo(0,0);">top</span>
+	&nbsp<span onclick="window.scrollTo(0,document.body.scrollHeight);">bottom</span>
+</div>
 
 <center>
 <h1>De superpagina :)</h1>
@@ -116,7 +121,7 @@ while($row = $result->fetch_assoc()){
     </div>
 </div>
 <div>
-	<h3 onclick="toggle(1000);">Top 1000 (remainder)</h3>
+	<h3 onclick="toggle(1000);"><a id="remainder">Top 1000 (remainder)</a></h3>
 	<div id="effect1000">
 <table>
 <?
