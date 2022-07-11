@@ -92,8 +92,11 @@ fclose($file);
 </div>
 
 <div style="position:fixed; bottom:10px; right:10px;">
-	<span onclick="window.scrollTo(0,0);">top</span>
-	&nbsp<span onclick="window.scrollTo(0,document.body.scrollHeight);">bottom</span>
+	<span onclick="window.scrollTo(0,0);">top 100</span><br/><br/>
+	<a href="#remainder" style="text-decoration: none; color:black;">remainder</a><br/><br/>
+	<a href="#recent" style="text-decoration: none; color:black;">most recent</a><br/><br/>
+	<a href="#before" style="text-decoration: none; color:black;">the one before</a><br/><br/>
+	<span onclick="window.scrollTo(0,document.body.scrollHeight);">bottom</span>
 </div>
 
 <center>
@@ -131,6 +134,8 @@ while($row = $result->fetch_assoc()){
 
 		if($counter++ >= 1000){
 			
+			$score = $row['score'];
+
 			break;
 		}
 }
@@ -138,8 +143,17 @@ while($row = $result->fetch_assoc()){
 </table>
     </div>
 </div>
+<?
+$sql5 = "select count(1) from genetic where score = '".$score."';";
+
+$result5 = $conn->query($sql5);
+
+$row = $result5->fetch_assoc();
+
+echo $row['count(1)']." dna's where score=\"".$score."\"";
+?>
 <div>
-	<h3 onclick="toggle(0);">Most recent</h3>
+	<h3 onclick="toggle(0);"><a id="recent">Most recent</a></h3>
 	<div id="effect0">
 <table>
 <?
@@ -152,7 +166,7 @@ while($row = $result3->fetch_assoc()){
     </div>
 </div>
 <div>
-        <h3 onclick="toggle(1);">The one before</h3>
+        <h3 onclick="toggle(1);"><a id="before">The one before</a></h3>
         <div id="effect1">
 <table>
 <?
