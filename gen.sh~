@@ -1,4 +1,5 @@
 
+./stub.sh $1
 ./select.sh $1
 ./select_mut.sh $1
 ./write_pair.sh $1
@@ -8,6 +9,10 @@ cd ../../../scriptz/
 ./mut.sh $1
 before=$(date)
 ./parseNewGen.sh $1
+if [ $? -ne 0 ]
+then
+	exit -1
+fi
 after=$(date)
 ./iterate.sh
 echo $before

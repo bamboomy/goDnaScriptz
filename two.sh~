@@ -11,11 +11,7 @@ java -jar ../../../jars/parser.jar
 ./insert.sh
 cd src
 
-if ! javac -cp .:../lib/log4j-1.2.17.jar */*.java */*/*/*/*.java */*/*/*/*/*.java
-then
-
-	exit 1
-fi
+javac -cp .:../lib/log4j-1.2.17.jar */*.java */*/*/*/*.java */*/*/*/*/*.java
        
 jar cvfe dummy.jar net.sf.gogui.tools.dummy.Main */*.class */*/*/*/*.class */*/*/*/*/*.class
 

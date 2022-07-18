@@ -13,9 +13,9 @@ do
 	if (((($counter%3)) < "2"))
 	then
 
-		./two.sh $i "(($counter%3))" $counter &
+		./two.sh $i $(($counter%3)) $counter &
 	else
-		./two.sh $i "(($counter%3))" $counter &
+		./two.sh $i $(($counter%3)) $counter &
 
 		wait
 	fi
@@ -33,9 +33,9 @@ wait
 	        if (((($counter%3)) < "2"))
 	        then
 
-			./two.sh $i "(($counter%3))" $counter &
+			./two.sh $i $(($counter%3)) $counter &
 		else
-			./two.sh $i "(($counter%3))" $counter &
+			./two.sh $i $(($counter%3)) $counter &
 			
 			wait
 		fi

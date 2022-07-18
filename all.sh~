@@ -1,7 +1,13 @@
 
-for i in {20..1000}
+for i in {2..1000}
 do
 	./gen.sh $i
+	if [ $? -ne 0 ]
+        then
+        	cd /var/www/html
+        	cp evolution_off.php evolution.php
+            exit -1
+        fi
 	
 	./purge.sh
 
