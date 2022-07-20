@@ -1,0 +1,755 @@
+2022-07-19 17:18:20 DEBUG DnaPairer:76 - cutpointz match :) -> 14000
+2022-07-19 17:18:20 DEBUG DnaPairer:150 - ---
+2022-07-19 17:18:20 DEBUG DnaPairer:183 - 187:23, 11
+2022-07-19 17:18:20 DEBUG DnaPairer:183 - 221:17, 6
+2022-07-19 17:18:20 DEBUG DnaPairer:183 - 363:18, 9
+2022-07-19 17:18:20 DEBUG DnaPairer:183 - 379:27, 15
+2022-07-19 17:18:20 DEBUG DnaPairer:183 - 412:16, 8
+2022-07-19 17:18:20 DEBUG DnaPairer:183 - 510:30, 5
+2022-07-19 17:18:20 DEBUG DnaPairer:183 - 550:22, 10
+2022-07-19 17:18:20 DEBUG DnaPairer:183 - 1589:13, 6
+2022-07-19 17:18:20 DEBUG DnaPairer:183 - 1812:15, 6
+2022-07-19 17:18:20 DEBUG DnaPairer:183 - 1831:26, 14
+2022-07-19 17:18:20 DEBUG DnaPairer:183 - 2326:13, 5
+2022-07-19 17:18:20 DEBUG DnaPairer:183 - 2803:27, 17
+2022-07-19 17:18:20 DEBUG DnaPairer:183 - 3123:26, 12
+2022-07-19 17:18:20 DEBUG DnaPairer:183 - 3139:25, 10
+2022-07-19 17:18:20 DEBUG DnaPairer:183 - 3223:17, 9
+2022-07-19 17:18:20 DEBUG DnaPairer:183 - 4046:19, 5
+2022-07-19 17:18:20 DEBUG DnaPairer:183 - 5133:13, 7
+2022-07-19 17:18:20 DEBUG DnaPairer:183 - 5827:30, 18
+2022-07-19 17:18:20 DEBUG DnaPairer:183 - 6182:11, 5
+2022-07-19 17:18:20 DEBUG DnaPairer:183 - 6400:18, 6
+2022-07-19 17:18:20 DEBUG DnaPairer:183 - 6417:18, 6
+2022-07-19 17:18:20 DEBUG DnaPairer:183 - 6650:14, 7
+2022-07-19 17:18:20 DEBUG DnaPairer:183 - 6708:24, 16
+2022-07-19 17:18:20 DEBUG DnaPairer:183 - 7002:12, 6
+2022-07-19 17:18:20 DEBUG DnaPairer:183 - 7484:30, 8
+2022-07-19 17:18:20 DEBUG DnaPairer:183 - 7503:26, 12
+2022-07-19 17:18:20 DEBUG DnaPairer:183 - 7924:24, 16
+2022-07-19 17:18:20 DEBUG DnaPairer:183 - 8138:26, 14
+2022-07-19 17:18:20 DEBUG DnaPairer:183 - 8709:15, 8
+2022-07-19 17:18:20 DEBUG DnaPairer:183 - 9875:11, 5
+2022-07-19 17:18:20 DEBUG DnaPairer:183 - 10602:23, 11
+2022-07-19 17:18:20 DEBUG DnaPairer:183 - 10722:21, 9
+2022-07-19 17:18:20 DEBUG DnaPairer:183 - 10886:31, 16
+2022-07-19 17:18:20 DEBUG DnaPairer:183 - 10984:15, 8
+2022-07-19 17:18:20 DEBUG DnaPairer:183 - 12162:25, 16
+2022-07-19 17:18:20 DEBUG DnaPairer:183 - 12702:20, 9
+2022-07-19 17:18:20 DEBUG DnaPairer:183 - 12790:28, 5
+2022-07-19 17:18:20 DEBUG DnaPairer:183 - 13142:27, 19
+2022-07-19 17:18:20 DEBUG DnaPairer:183 - 13815:19, 10
+2022-07-19 17:18:20 DEBUG DnaPairer:183 - 13844:31, 22
+2022-07-19 17:18:20 DEBUG DnaPairer:249 - 187:24, 14
+2022-07-19 17:18:20 DEBUG DnaPairer:249 - 221:21, 15
+2022-07-19 17:18:20 DEBUG DnaPairer:249 - 363:27, 14
+2022-07-19 17:18:20 DEBUG DnaPairer:249 - 379:16, 6
+2022-07-19 17:18:20 DEBUG DnaPairer:249 - 412:22, 11
+2022-07-19 17:18:20 DEBUG DnaPairer:249 - 510:16, 5
+2022-07-19 17:18:20 DEBUG DnaPairer:249 - 550:22, 11
+2022-07-19 17:18:20 DEBUG DnaPairer:249 - 1589:11, 5
+2022-07-19 17:18:20 DEBUG DnaPairer:249 - 1812:27, 15
+2022-07-19 17:18:20 DEBUG DnaPairer:249 - 1831:25, 19
+2022-07-19 17:18:20 DEBUG DnaPairer:249 - 2326:13, 7
+2022-07-19 17:18:20 DEBUG DnaPairer:249 - 2803:20, 14
+2022-07-19 17:18:20 DEBUG DnaPairer:249 - 3123:17, 10
+2022-07-19 17:18:20 DEBUG DnaPairer:249 - 3139:18, 12
+2022-07-19 17:18:20 DEBUG DnaPairer:249 - 3223:30, 11
+2022-07-19 17:18:20 DEBUG DnaPairer:249 - 4046:26, 6
+2022-07-19 17:18:20 DEBUG DnaPairer:249 - 5133:22, 8
+2022-07-19 17:18:20 DEBUG DnaPairer:249 - 5827:23, 16
+2022-07-19 17:18:20 DEBUG DnaPairer:249 - 6182:14, 7
+2022-07-19 17:18:20 DEBUG DnaPairer:249 - 6400:26, 20
+2022-07-19 17:18:20 DEBUG DnaPairer:249 - 6417:24, 16
+2022-07-19 17:18:20 DEBUG DnaPairer:249 - 6650:21, 10
+2022-07-19 17:18:20 DEBUG DnaPairer:249 - 6708:23, 11
+2022-07-19 17:18:20 DEBUG DnaPairer:249 - 7002:27, 20
+2022-07-19 17:18:20 DEBUG DnaPairer:249 - 7484:20, 7
+2022-07-19 17:18:20 DEBUG DnaPairer:249 - 7503:21, 13
+2022-07-19 17:18:20 DEBUG DnaPairer:249 - 7924:20, 7
+2022-07-19 17:18:20 DEBUG DnaPairer:249 - 8138:14, 7
+2022-07-19 17:18:20 DEBUG DnaPairer:249 - 8709:18, 6
+2022-07-19 17:18:20 DEBUG DnaPairer:249 - 9875:21, 7
+2022-07-19 17:18:20 DEBUG DnaPairer:249 - 10602:20, 14
+2022-07-19 17:18:20 DEBUG DnaPairer:249 - 10722:20, 12
+2022-07-19 17:18:20 DEBUG DnaPairer:249 - 10886:31, 21
+2022-07-19 17:18:20 DEBUG DnaPairer:249 - 10984:28, 19
+2022-07-19 17:18:20 DEBUG DnaPairer:249 - 12162:25, 13
+2022-07-19 17:18:20 DEBUG DnaPairer:249 - 12702:27, 5
+2022-07-19 17:18:20 DEBUG DnaPairer:249 - 12790:16, 6
+2022-07-19 17:18:20 DEBUG DnaPairer:249 - 13142:24, 16
+2022-07-19 17:18:20 DEBUG DnaPairer:249 - 13815:29, 12
+2022-07-19 17:18:20 DEBUG DnaPairer:249 - 13844:29, 21
+2022-07-19 17:18:20 DEBUG DnaPairer:323 - nextBorder[cutpointCounter[1]11
+2022-07-19 17:18:20 DEBUG DnaPairer:360 - -14
+2022-07-19 17:18:20 DEBUG DnaPairer:407 - cleaning
+2022-07-19 17:18:20 DEBUG DnaPairer:438 -     double ld0
+2022-07-19 17:18:20 DEBUG DnaPairer:438 -     boolean lb1
+2022-07-19 17:18:20 DEBUG DnaPairer:438 -     boolean lb3
+2022-07-19 17:18:20 DEBUG DnaPairer:438 -     boolean lb4
+2022-07-19 17:18:20 DEBUG DnaPairer:323 - nextBorder[cutpointCounter[1]15
+2022-07-19 17:18:20 DEBUG DnaPairer:360 - -6
+2022-07-19 17:18:20 DEBUG DnaPairer:407 - cleaning
+2022-07-19 17:18:20 DEBUG DnaPairer:438 -     boolean lb0
+2022-07-19 17:18:20 DEBUG DnaPairer:438 -         Thought lo1
+2022-07-19 17:18:20 DEBUG DnaPairer:438 -         boolean lb2
+2022-07-19 17:18:20 DEBUG DnaPairer:438 -         boolean lb3
+2022-07-19 17:18:20 DEBUG DnaPairer:438 -         boolean lb4
+2022-07-19 17:18:20 DEBUG DnaPairer:438 -         double ld5
+2022-07-19 17:18:20 DEBUG DnaPairer:438 -     Thought lo2
+2022-07-19 17:18:20 DEBUG DnaPairer:323 - nextBorder[cutpointCounter[1]9
+2022-07-19 17:18:20 DEBUG DnaPairer:360 - -14
+2022-07-19 17:18:20 DEBUG DnaPairer:407 - cleaning
+2022-07-19 17:18:20 DEBUG DnaPairer:438 -     boolean lb4
+2022-07-19 17:18:20 DEBUG DnaPairer:438 -     Thought lo5
+2022-07-19 17:18:20 DEBUG DnaPairer:323 - nextBorder[cutpointCounter[1]6
+2022-07-19 17:18:20 DEBUG DnaPairer:360 - -15
+2022-07-19 17:18:20 DEBUG DnaPairer:407 - cleaning
+2022-07-19 17:18:20 DEBUG DnaPairer:438 -     boolean lb0
+2022-07-19 17:18:20 DEBUG DnaPairer:438 -     boolean lb1
+2022-07-19 17:18:20 DEBUG DnaPairer:438 -             boolean lb3
+2022-07-19 17:18:20 DEBUG DnaPairer:438 -                 Thought lo4
+2022-07-19 17:18:20 DEBUG DnaPairer:438 -                 Thought lo5
+2022-07-19 17:18:20 DEBUG DnaPairer:323 - nextBorder[cutpointCounter[1]8
+2022-07-19 17:18:20 DEBUG DnaPairer:360 - -11
+2022-07-19 17:18:20 DEBUG DnaPairer:407 - cleaning
+2022-07-19 17:18:20 DEBUG DnaPairer:438 -     double ld0
+2022-07-19 17:18:20 DEBUG DnaPairer:438 -     double ld1
+2022-07-19 17:18:20 DEBUG DnaPairer:438 -                 Thought lo5
+2022-07-19 17:18:20 DEBUG DnaPairer:438 -                 boolean lb6
+2022-07-19 17:18:20 DEBUG DnaPairer:323 - nextBorder[cutpointCounter[1]5
+2022-07-19 17:18:20 DEBUG DnaPairer:360 - -5
+2022-07-19 17:18:20 DEBUG DnaPairer:407 - cleaning
+2022-07-19 17:18:20 DEBUG DnaPairer:438 -     Thought lo0
+2022-07-19 17:18:20 DEBUG DnaPairer:438 -     double ld0
+2022-07-19 17:18:20 DEBUG DnaPairer:438 -     boolean lb1
+2022-07-19 17:18:20 DEBUG DnaPairer:323 - nextBorder[cutpointCounter[1]10
+2022-07-19 17:18:20 DEBUG DnaPairer:360 - -11
+2022-07-19 17:18:20 DEBUG DnaPairer:407 - cleaning
+2022-07-19 17:18:20 DEBUG DnaPairer:438 -     Thought lo0
+2022-07-19 17:18:20 DEBUG DnaPairer:438 -     boolean lb1
+2022-07-19 17:18:20 DEBUG DnaPairer:438 -     Thought lo4
+2022-07-19 17:18:20 DEBUG DnaPairer:323 - nextBorder[cutpointCounter[1]5
+2022-07-19 17:18:20 DEBUG DnaPairer:360 - -6
+2022-07-19 17:18:20 DEBUG DnaPairer:407 - cleaning
+2022-07-19 17:18:20 DEBUG DnaPairer:323 - nextBorder[cutpointCounter[1]6
+2022-07-19 17:18:20 DEBUG DnaPairer:360 - -15
+2022-07-19 17:18:20 DEBUG DnaPairer:407 - cleaning
+2022-07-19 17:18:20 DEBUG DnaPairer:438 -     double ld5
+2022-07-19 17:18:20 DEBUG DnaPairer:438 -     boolean lb6
+2022-07-19 17:18:20 DEBUG DnaPairer:438 -     double ld7
+2022-07-19 17:18:20 DEBUG DnaPairer:323 - nextBorder[cutpointCounter[1]19
+2022-07-19 17:18:20 DEBUG DnaPairer:360 - -14
+2022-07-19 17:18:20 DEBUG DnaPairer:407 - cleaning
+2022-07-19 17:18:20 DEBUG DnaPairer:438 -     Thought lo0
+2022-07-19 17:18:20 DEBUG DnaPairer:438 -     boolean lb1
+2022-07-19 17:18:20 DEBUG DnaPairer:438 -     double ld2
+2022-07-19 17:18:20 DEBUG DnaPairer:438 -     boolean lb3
+2022-07-19 17:18:20 DEBUG DnaPairer:438 -     double ld4
+2022-07-19 17:18:20 DEBUG DnaPairer:438 -     Thought lo5
+2022-07-19 17:18:20 DEBUG DnaPairer:438 -     Thought lo6
+2022-07-19 17:18:20 DEBUG DnaPairer:438 -         boolean lb3
+2022-07-19 17:18:20 DEBUG DnaPairer:454 - skipped:         boolean lb3 = true;
+2022-07-19 17:18:20 DEBUG DnaPairer:438 -     Thought lo4
+2022-07-19 17:18:20 DEBUG DnaPairer:323 - nextBorder[cutpointCounter[1]5
+2022-07-19 17:18:20 DEBUG DnaPairer:360 - -7
+2022-07-19 17:18:20 DEBUG DnaPairer:407 - cleaning
+2022-07-19 17:18:20 DEBUG DnaPairer:438 -     Thought lo0
+2022-07-19 17:18:20 DEBUG DnaPairer:323 - nextBorder[cutpointCounter[1]14
+2022-07-19 17:18:20 DEBUG DnaPairer:360 - -17
+2022-07-19 17:18:20 DEBUG DnaPairer:407 - cleaning
+2022-07-19 17:18:20 DEBUG DnaPairer:438 -     boolean lb5
+2022-07-19 17:18:20 DEBUG DnaPairer:438 -         Thought lo6
+2022-07-19 17:18:20 DEBUG DnaPairer:323 - nextBorder[cutpointCounter[1]12
+2022-07-19 17:18:20 DEBUG DnaPairer:360 - -10
+2022-07-19 17:18:20 DEBUG DnaPairer:407 - cleaning
+2022-07-19 17:18:20 DEBUG DnaPairer:438 -     Thought lo0
+2022-07-19 17:18:20 DEBUG DnaPairer:438 -     double ld2
+2022-07-19 17:18:20 DEBUG DnaPairer:323 - nextBorder[cutpointCounter[1]12
+2022-07-19 17:18:20 DEBUG DnaPairer:360 - -10
+2022-07-19 17:18:20 DEBUG DnaPairer:407 - cleaning
+2022-07-19 17:18:20 DEBUG DnaPairer:438 -     double ld0
+2022-07-19 17:18:20 DEBUG DnaPairer:438 -     Thought lo1
+2022-07-19 17:18:20 DEBUG DnaPairer:438 -     double ld3
+2022-07-19 17:18:20 DEBUG DnaPairer:438 -     double ld4
+2022-07-19 17:18:20 DEBUG DnaPairer:438 -     double ld5
+2022-07-19 17:18:20 DEBUG DnaPairer:323 - nextBorder[cutpointCounter[1]9
+2022-07-19 17:18:20 DEBUG DnaPairer:360 - -11
+2022-07-19 17:18:20 DEBUG DnaPairer:407 - cleaning
+2022-07-19 17:18:20 DEBUG DnaPairer:438 -     Thought lo0
+2022-07-19 17:18:20 DEBUG DnaPairer:438 -     boolean lb1
+2022-07-19 17:18:20 DEBUG DnaPairer:438 -     Thought lo2
+2022-07-19 17:18:20 DEBUG DnaPairer:323 - nextBorder[cutpointCounter[1]6
+2022-07-19 17:18:20 DEBUG DnaPairer:360 - -5
+2022-07-19 17:18:20 DEBUG DnaPairer:407 - cleaning
+2022-07-19 17:18:20 DEBUG DnaPairer:438 -     double ld0
+2022-07-19 17:18:20 DEBUG DnaPairer:438 -     Thought lo0
+2022-07-19 17:18:20 DEBUG DnaPairer:438 -     Thought lo1
+2022-07-19 17:18:20 DEBUG DnaPairer:323 - nextBorder[cutpointCounter[1]7
+2022-07-19 17:18:20 DEBUG DnaPairer:360 - -8
+2022-07-19 17:18:20 DEBUG DnaPairer:407 - cleaning
+2022-07-19 17:18:20 DEBUG DnaPairer:438 -     Thought lo0
+2022-07-19 17:18:20 DEBUG DnaPairer:438 -     Thought lo1
+2022-07-19 17:18:20 DEBUG DnaPairer:438 -     boolean lb2
+2022-07-19 17:18:20 DEBUG DnaPairer:438 -     double ld1
+2022-07-19 17:18:20 DEBUG DnaPairer:438 -     boolean lb2
+2022-07-19 17:18:20 DEBUG DnaPairer:454 - skipped:     boolean lb2 = false;
+2022-07-19 17:18:20 DEBUG DnaPairer:438 -     boolean lb3
+2022-07-19 17:18:20 DEBUG DnaPairer:323 - nextBorder[cutpointCounter[1]16
+2022-07-19 17:18:20 DEBUG DnaPairer:360 - -18
+2022-07-19 17:18:20 DEBUG DnaPairer:407 - cleaning
+2022-07-19 17:18:20 DEBUG DnaPairer:438 -     Thought lo0
+2022-07-19 17:18:20 DEBUG DnaPairer:438 -     boolean lb1
+2022-07-19 17:18:20 DEBUG DnaPairer:438 -     double ld2
+2022-07-19 17:18:20 DEBUG DnaPairer:438 -     boolean lb3
+2022-07-19 17:18:20 DEBUG DnaPairer:438 -         Thought lo3
+2022-07-19 17:18:20 DEBUG DnaPairer:438 -     Thought lo4
+2022-07-19 17:18:20 DEBUG DnaPairer:438 -     Thought lo5
+2022-07-19 17:18:20 DEBUG DnaPairer:438 -     boolean lb6
+2022-07-19 17:18:20 DEBUG DnaPairer:323 - nextBorder[cutpointCounter[1]5
+2022-07-19 17:18:20 DEBUG DnaPairer:360 - -7
+2022-07-19 17:18:20 DEBUG DnaPairer:407 - cleaning
+2022-07-19 17:18:20 DEBUG DnaPairer:438 -     boolean lb0
+2022-07-19 17:18:20 DEBUG DnaPairer:438 -     boolean lb1
+2022-07-19 17:18:20 DEBUG DnaPairer:323 - nextBorder[cutpointCounter[1]20
+2022-07-19 17:18:20 DEBUG DnaPairer:360 - -6
+2022-07-19 17:18:20 DEBUG DnaPairer:407 - cleaning
+2022-07-19 17:18:20 DEBUG DnaPairer:438 -     double ld0
+2022-07-19 17:18:20 DEBUG DnaPairer:438 -     Thought lo1
+2022-07-19 17:18:20 DEBUG DnaPairer:438 -         Thought lo2
+2022-07-19 17:18:20 DEBUG DnaPairer:438 -         boolean lb3
+2022-07-19 17:18:20 DEBUG DnaPairer:438 -     boolean lb1
+2022-07-19 17:18:20 DEBUG DnaPairer:323 - nextBorder[cutpointCounter[1]6
+2022-07-19 17:18:20 DEBUG DnaPairer:360 - -16
+2022-07-19 17:18:20 DEBUG DnaPairer:407 - cleaning
+2022-07-19 17:18:20 DEBUG DnaPairer:438 -         double ld3
+2022-07-19 17:18:20 DEBUG DnaPairer:323 - nextBorder[cutpointCounter[1]10
+2022-07-19 17:18:20 DEBUG DnaPairer:360 - -7
+2022-07-19 17:18:20 DEBUG DnaPairer:407 - cleaning
+2022-07-19 17:18:20 DEBUG DnaPairer:438 -     boolean lb0
+2022-07-19 17:18:20 DEBUG DnaPairer:438 -     boolean lb1
+2022-07-19 17:18:20 DEBUG DnaPairer:438 -     double ld2
+2022-07-19 17:18:20 DEBUG DnaPairer:438 -     Thought lo3
+2022-07-19 17:18:20 DEBUG DnaPairer:323 - nextBorder[cutpointCounter[1]16
+2022-07-19 17:18:20 DEBUG DnaPairer:360 - -11
+2022-07-19 17:18:20 DEBUG DnaPairer:407 - cleaning
+2022-07-19 17:18:20 DEBUG DnaPairer:438 -     Thought lo0
+2022-07-19 17:18:20 DEBUG DnaPairer:438 -     double ld1
+2022-07-19 17:18:20 DEBUG DnaPairer:438 -         double ld2
+2022-07-19 17:18:20 DEBUG DnaPairer:438 -         Thought lo3
+2022-07-19 17:18:20 DEBUG DnaPairer:438 -         Thought lo4
+2022-07-19 17:18:20 DEBUG DnaPairer:438 -         double ld5
+2022-07-19 17:18:20 DEBUG DnaPairer:438 -     double ld1
+2022-07-19 17:18:20 DEBUG DnaPairer:454 - skipped:     double ld1 = 497.4413489557899;
+2022-07-19 17:18:20 DEBUG DnaPairer:438 -         boolean lb2
+2022-07-19 17:18:20 DEBUG DnaPairer:323 - nextBorder[cutpointCounter[1]20
+2022-07-19 17:18:20 DEBUG DnaPairer:360 - -6
+2022-07-19 17:18:20 DEBUG DnaPairer:407 - cleaning
+2022-07-19 17:18:20 DEBUG DnaPairer:438 -     double ld0
+2022-07-19 17:18:20 DEBUG DnaPairer:438 -     Thought lo1
+2022-07-19 17:18:20 DEBUG DnaPairer:438 -     Thought lo2
+2022-07-19 17:18:20 DEBUG DnaPairer:438 -     Thought lo3
+2022-07-19 17:18:20 DEBUG DnaPairer:323 - nextBorder[cutpointCounter[1]8
+2022-07-19 17:18:20 DEBUG DnaPairer:360 - -7
+2022-07-19 17:18:20 DEBUG DnaPairer:407 - cleaning
+2022-07-19 17:18:20 DEBUG DnaPairer:438 -     boolean lb0
+2022-07-19 17:18:20 DEBUG DnaPairer:438 -     Thought lo4
+2022-07-19 17:18:20 DEBUG DnaPairer:438 -     Thought lo5
+2022-07-19 17:18:20 DEBUG DnaPairer:438 -     double ld6
+2022-07-19 17:18:20 DEBUG DnaPairer:438 -     Thought lo7
+2022-07-19 17:18:20 DEBUG DnaPairer:438 -     double ld8
+2022-07-19 17:18:20 DEBUG DnaPairer:323 - nextBorder[cutpointCounter[1]13
+2022-07-19 17:18:20 DEBUG DnaPairer:360 - -12
+2022-07-19 17:18:20 DEBUG DnaPairer:407 - cleaning
+2022-07-19 17:18:20 DEBUG DnaPairer:438 -             boolean lb0
+2022-07-19 17:18:20 DEBUG DnaPairer:438 -     double ld2
+2022-07-19 17:18:20 DEBUG DnaPairer:438 -     double ld3
+2022-07-19 17:18:20 DEBUG DnaPairer:438 -     Thought lo4
+2022-07-19 17:18:20 DEBUG DnaPairer:438 -     double ld5
+2022-07-19 17:18:20 DEBUG DnaPairer:438 -     boolean lb6
+2022-07-19 17:18:20 DEBUG DnaPairer:438 -     boolean lb7
+2022-07-19 17:18:20 DEBUG DnaPairer:323 - nextBorder[cutpointCounter[1]16
+2022-07-19 17:18:20 DEBUG DnaPairer:360 - -7
+2022-07-19 17:18:20 DEBUG DnaPairer:407 - cleaning
+2022-07-19 17:18:20 DEBUG DnaPairer:438 -     boolean lb0
+2022-07-19 17:18:20 DEBUG DnaPairer:438 -     double ld1
+2022-07-19 17:18:20 DEBUG DnaPairer:438 -     double ld2
+2022-07-19 17:18:20 DEBUG DnaPairer:438 -     double ld3
+2022-07-19 17:18:20 DEBUG DnaPairer:438 -     Thought lo4
+2022-07-19 17:18:20 DEBUG DnaPairer:438 -     Thought lo5
+2022-07-19 17:18:20 DEBUG DnaPairer:438 -     Thought lo2
+2022-07-19 17:18:20 DEBUG DnaPairer:323 - nextBorder[cutpointCounter[1]7
+2022-07-19 17:18:20 DEBUG DnaPairer:360 - -14
+2022-07-19 17:18:20 DEBUG DnaPairer:407 - cleaning
+2022-07-19 17:18:20 DEBUG DnaPairer:438 -     boolean lb0
+2022-07-19 17:18:20 DEBUG DnaPairer:438 -     double ld1
+2022-07-19 17:18:20 DEBUG DnaPairer:438 -     boolean lb2
+2022-07-19 17:18:20 DEBUG DnaPairer:323 - nextBorder[cutpointCounter[1]8
+2022-07-19 17:18:20 DEBUG DnaPairer:360 - -6
+2022-07-19 17:18:20 DEBUG DnaPairer:407 - cleaning
+2022-07-19 17:18:20 DEBUG DnaPairer:323 - nextBorder[cutpointCounter[1]7
+2022-07-19 17:18:20 DEBUG DnaPairer:360 - -5
+2022-07-19 17:18:20 DEBUG DnaPairer:407 - cleaning
+2022-07-19 17:18:20 DEBUG DnaPairer:438 -     boolean lb0
+2022-07-19 17:18:20 DEBUG DnaPairer:438 -     boolean lb1
+2022-07-19 17:18:20 DEBUG DnaPairer:438 -     Thought lo0
+2022-07-19 17:18:20 DEBUG DnaPairer:323 - nextBorder[cutpointCounter[1]11
+2022-07-19 17:18:20 DEBUG DnaPairer:360 - -14
+2022-07-19 17:18:20 DEBUG DnaPairer:407 - cleaning
+2022-07-19 17:18:20 DEBUG DnaPairer:438 -     double ld0
+2022-07-19 17:18:20 DEBUG DnaPairer:438 -     Thought lo1
+2022-07-19 17:18:20 DEBUG DnaPairer:438 -     Thought lo2
+2022-07-19 17:18:20 DEBUG DnaPairer:438 -     boolean lb3
+2022-07-19 17:18:20 DEBUG DnaPairer:438 -     Thought lo1
+2022-07-19 17:18:20 DEBUG DnaPairer:454 - skipped:     Thought lo1 = Thought351.getInstance();
+2022-07-19 17:18:20 DEBUG DnaPairer:323 - nextBorder[cutpointCounter[1]12
+2022-07-19 17:18:20 DEBUG DnaPairer:360 - -9
+2022-07-19 17:18:20 DEBUG DnaPairer:407 - cleaning
+2022-07-19 17:18:20 DEBUG DnaPairer:438 -             boolean lb0
+2022-07-19 17:18:20 DEBUG DnaPairer:438 -             boolean lb1
+2022-07-19 17:18:20 DEBUG DnaPairer:438 -             boolean lb2
+2022-07-19 17:18:20 DEBUG DnaPairer:323 - nextBorder[cutpointCounter[1]16
+2022-07-19 17:18:20 DEBUG DnaPairer:360 - -21
+2022-07-19 17:18:20 DEBUG DnaPairer:407 - cleaning
+2022-07-19 17:18:20 DEBUG DnaPairer:438 -     double ld0
+2022-07-19 17:18:20 DEBUG DnaPairer:438 -     Thought lo1
+2022-07-19 17:18:20 DEBUG DnaPairer:438 -         Thought lo4
+2022-07-19 17:18:20 DEBUG DnaPairer:438 -         Thought lo5
+2022-07-19 17:18:20 DEBUG DnaPairer:323 - nextBorder[cutpointCounter[1]19
+2022-07-19 17:18:20 DEBUG DnaPairer:360 - -8
+2022-07-19 17:18:20 DEBUG DnaPairer:407 - cleaning
+2022-07-19 17:18:20 DEBUG DnaPairer:438 -     boolean lb0
+2022-07-19 17:18:20 DEBUG DnaPairer:438 -     boolean lb1
+2022-07-19 17:18:20 DEBUG DnaPairer:438 -     Thought lo2
+2022-07-19 17:18:20 DEBUG DnaPairer:438 -     boolean lb3
+2022-07-19 17:18:20 DEBUG DnaPairer:438 -     boolean lb1
+2022-07-19 17:18:20 DEBUG DnaPairer:454 - skipped:     boolean lb1 = false;
+2022-07-19 17:18:20 DEBUG DnaPairer:323 - nextBorder[cutpointCounter[1]16
+2022-07-19 17:18:20 DEBUG DnaPairer:360 - -13
+2022-07-19 17:18:20 DEBUG DnaPairer:407 - cleaning
+2022-07-19 17:18:20 DEBUG DnaPairer:438 -     boolean lb0
+2022-07-19 17:18:20 DEBUG DnaPairer:438 -     double ld1
+2022-07-19 17:18:20 DEBUG DnaPairer:438 -         boolean lb2
+2022-07-19 17:18:20 DEBUG DnaPairer:438 -         boolean lb3
+2022-07-19 17:18:20 DEBUG DnaPairer:438 -         double ld1
+2022-07-19 17:18:20 DEBUG DnaPairer:454 - skipped:         double ld1 = 410.0850649036623;
+2022-07-19 17:18:20 DEBUG DnaPairer:438 -         boolean lb2
+2022-07-19 17:18:20 DEBUG DnaPairer:454 - skipped:         boolean lb2 = false;
+2022-07-19 17:18:20 DEBUG DnaPairer:323 - nextBorder[cutpointCounter[1]5
+2022-07-19 17:18:20 DEBUG DnaPairer:360 - -9
+2022-07-19 17:18:20 DEBUG DnaPairer:407 - cleaning
+2022-07-19 17:18:20 DEBUG DnaPairer:438 -     boolean lb0
+2022-07-19 17:18:20 DEBUG DnaPairer:323 - nextBorder[cutpointCounter[1]5
+2022-07-19 17:18:20 DEBUG DnaPairer:360 - -6
+2022-07-19 17:18:20 DEBUG DnaPairer:407 - cleaning
+2022-07-19 17:18:20 DEBUG DnaPairer:438 -     boolean lb0
+2022-07-19 17:18:20 DEBUG DnaPairer:323 - nextBorder[cutpointCounter[1]16
+2022-07-19 17:18:20 DEBUG DnaPairer:360 - -19
+2022-07-19 17:18:20 DEBUG DnaPairer:407 - cleaning
+2022-07-19 17:18:20 DEBUG DnaPairer:438 -     double ld0
+2022-07-19 17:18:20 DEBUG DnaPairer:438 -     boolean lb1
+2022-07-19 17:18:20 DEBUG DnaPairer:438 -     boolean lb2
+2022-07-19 17:18:20 DEBUG DnaPairer:438 -     double ld3
+2022-07-19 17:18:20 DEBUG DnaPairer:438 -         Thought lo6
+2022-07-19 17:18:20 DEBUG DnaPairer:323 - nextBorder[cutpointCounter[1]10
+2022-07-19 17:18:20 DEBUG DnaPairer:360 - -12
+2022-07-19 17:18:20 DEBUG DnaPairer:407 - cleaning
+2022-07-19 17:18:20 DEBUG DnaPairer:438 -     double ld0
+2022-07-19 17:18:20 DEBUG DnaPairer:438 -     Thought lo1
+2022-07-19 17:18:20 DEBUG DnaPairer:438 -         double ld4
+2022-07-19 17:18:20 DEBUG DnaPairer:323 - nextBorder[cutpointCounter[1]21
+2022-07-19 17:18:20 DEBUG DnaPairer:360 - -22
+2022-07-19 17:18:20 DEBUG DnaPairer:407 - cleaning
+2022-07-19 17:18:20 DEBUG DnaPairer:438 -     double ld0
+2022-07-19 17:18:20 DEBUG DnaPairer:438 -     Thought lo1
+2022-07-19 17:18:20 DEBUG DnaPairer:438 -     double ld2
+2022-07-19 17:18:20 DEBUG DnaPairer:438 -     boolean lb3
+2022-07-19 17:18:20 DEBUG DnaPairer:438 -     double ld4
+2022-07-19 17:18:20 DEBUG DnaPairer:438 -     double ld5
+2022-07-19 17:18:20 DEBUG DnaPairer:438 -     boolean lb6
+2022-07-19 17:18:20 DEBUG DnaPairer:438 -     Thought lo7
+2022-07-19 17:18:20 DEBUG DnaPairer:438 -     Thought lo7
+2022-07-19 17:18:20 DEBUG DnaPairer:454 - skipped:     Thought lo7 = Thought133.getInstance(ok, ok, ok, ok, bk, bk, bk, bk);
+2022-07-19 17:18:21 DEBUG DnaPairer:76 - cutpointz match :) -> 14000
+2022-07-19 17:18:21 DEBUG DnaPairer:150 - ---
+2022-07-19 17:18:21 DEBUG DnaPairer:183 - 351:27, 16
+2022-07-19 17:18:21 DEBUG DnaPairer:183 - 648:14, 7
+2022-07-19 17:18:21 DEBUG DnaPairer:183 - 952:30, 5
+2022-07-19 17:18:21 DEBUG DnaPairer:183 - 974:24, 12
+2022-07-19 17:18:21 DEBUG DnaPairer:183 - 1132:23, 10
+2022-07-19 17:18:21 DEBUG DnaPairer:183 - 2558:16, 9
+2022-07-19 17:18:21 DEBUG DnaPairer:183 - 2582:14, 7
+2022-07-19 17:18:21 DEBUG DnaPairer:183 - 2654:26, 9
+2022-07-19 17:18:21 DEBUG DnaPairer:183 - 3924:12, 5
+2022-07-19 17:18:21 DEBUG DnaPairer:183 - 4125:14, 6
+2022-07-19 17:18:21 DEBUG DnaPairer:183 - 4445:14, 6
+2022-07-19 17:18:21 DEBUG DnaPairer:183 - 4457:20, 11
+2022-07-19 17:18:21 DEBUG DnaPairer:183 - 4690:22, 8
+2022-07-19 17:18:21 DEBUG DnaPairer:183 - 5825:23, 11
+2022-07-19 17:18:21 DEBUG DnaPairer:183 - 6316:12, 6
+2022-07-19 17:18:21 DEBUG DnaPairer:183 - 6317:22, 15
+2022-07-19 17:18:21 DEBUG DnaPairer:183 - 6743:30, 18
+2022-07-19 17:18:21 DEBUG DnaPairer:183 - 6947:26, 12
+2022-07-19 17:18:21 DEBUG DnaPairer:183 - 7205:25, 17
+2022-07-19 17:18:21 DEBUG DnaPairer:183 - 7601:30, 23
+2022-07-19 17:18:21 DEBUG DnaPairer:183 - 7788:23, 7
+2022-07-19 17:18:21 DEBUG DnaPairer:183 - 8287:13, 7
+2022-07-19 17:18:21 DEBUG DnaPairer:183 - 8381:20, 6
+2022-07-19 17:18:21 DEBUG DnaPairer:183 - 8553:19, 8
+2022-07-19 17:18:21 DEBUG DnaPairer:183 - 8741:25, 14
+2022-07-19 17:18:21 DEBUG DnaPairer:183 - 8851:24, 17
+2022-07-19 17:18:21 DEBUG DnaPairer:183 - 9424:20, 8
+2022-07-19 17:18:21 DEBUG DnaPairer:183 - 9736:18, 11
+2022-07-19 17:18:21 DEBUG DnaPairer:183 - 9796:14, 5
+2022-07-19 17:18:21 DEBUG DnaPairer:183 - 9847:13, 5
+2022-07-19 17:18:21 DEBUG DnaPairer:183 - 9975:19, 12
+2022-07-19 17:18:21 DEBUG DnaPairer:183 - 10298:23, 5
+2022-07-19 17:18:21 DEBUG DnaPairer:183 - 10358:21, 11
+2022-07-19 17:18:21 DEBUG DnaPairer:183 - 10378:20, 9
+2022-07-19 17:18:21 DEBUG DnaPairer:183 - 11706:14, 5
+2022-07-19 17:18:21 DEBUG DnaPairer:183 - 11831:25, 8
+2022-07-19 17:18:21 DEBUG DnaPairer:183 - 12318:26, 8
+2022-07-19 17:18:21 DEBUG DnaPairer:183 - 13545:16, 10
+2022-07-19 17:18:21 DEBUG DnaPairer:183 - 13899:16, 10
+2022-07-19 17:18:21 DEBUG DnaPairer:183 - 13919:24, 14
+2022-07-19 17:18:21 DEBUG DnaPairer:249 - 351:22, 13
+2022-07-19 17:18:21 DEBUG DnaPairer:249 - 648:24, 11
+2022-07-19 17:18:21 DEBUG DnaPairer:249 - 952:29, 13
+2022-07-19 17:18:21 DEBUG DnaPairer:249 - 974:30, 12
+2022-07-19 17:18:21 DEBUG DnaPairer:249 - 1132:18, 7
+2022-07-19 17:18:21 DEBUG DnaPairer:249 - 2558:14, 5
+2022-07-19 17:18:21 DEBUG DnaPairer:249 - 2582:30, 13
+2022-07-19 17:18:21 DEBUG DnaPairer:249 - 2654:23, 17
+2022-07-19 17:18:21 DEBUG DnaPairer:249 - 3924:15, 6
+2022-07-19 17:18:21 DEBUG DnaPairer:249 - 4125:30, 24
+2022-07-19 17:18:21 DEBUG DnaPairer:249 - 4445:18, 7
+2022-07-19 17:18:21 DEBUG DnaPairer:249 - 4457:24, 12
+2022-07-19 17:18:21 DEBUG DnaPairer:249 - 4690:31, 20
+2022-07-19 17:18:21 DEBUG DnaPairer:249 - 5825:21, 14
+2022-07-19 17:18:21 DEBUG DnaPairer:249 - 6316:26, 9
+2022-07-19 17:18:21 DEBUG DnaPairer:249 - 6317:31, 14
+2022-07-19 17:18:21 DEBUG DnaPairer:249 - 6743:16, 5
+2022-07-19 17:18:21 DEBUG DnaPairer:249 - 6947:22, 5
+2022-07-19 17:18:21 DEBUG DnaPairer:249 - 7205:17, 8
+2022-07-19 17:18:21 DEBUG DnaPairer:249 - 7601:30, 11
+2022-07-19 17:18:21 DEBUG DnaPairer:249 - 7788:13, 7
+2022-07-19 17:18:21 DEBUG DnaPairer:249 - 8287:18, 5
+2022-07-19 17:18:21 DEBUG DnaPairer:249 - 8381:26, 13
+2022-07-19 17:18:21 DEBUG DnaPairer:249 - 8553:21, 14
+2022-07-19 17:18:21 DEBUG DnaPairer:249 - 8741:26, 10
+2022-07-19 17:18:21 DEBUG DnaPairer:249 - 8851:31, 11
+2022-07-19 17:18:21 DEBUG DnaPairer:249 - 9424:28, 15
+2022-07-19 17:18:21 DEBUG DnaPairer:249 - 9736:16, 7
+2022-07-19 17:18:21 DEBUG DnaPairer:249 - 9796:14, 7
+2022-07-19 17:18:21 DEBUG DnaPairer:249 - 9847:20, 14
+2022-07-19 17:18:21 DEBUG DnaPairer:249 - 9975:25, 7
+2022-07-19 17:18:21 DEBUG DnaPairer:249 - 10298:28, 9
+2022-07-19 17:18:21 DEBUG DnaPairer:249 - 10358:19, 13
+2022-07-19 17:18:21 DEBUG DnaPairer:249 - 10378:12, 6
+2022-07-19 17:18:21 DEBUG DnaPairer:249 - 11706:19, 7
+2022-07-19 17:18:21 DEBUG DnaPairer:249 - 11831:19, 12
+2022-07-19 17:18:21 DEBUG DnaPairer:249 - 12318:25, 16
+2022-07-19 17:18:21 DEBUG DnaPairer:249 - 13545:25, 14
+2022-07-19 17:18:21 DEBUG DnaPairer:249 - 13899:23, 7
+2022-07-19 17:18:21 DEBUG DnaPairer:249 - 13919:21, 13
+2022-07-19 17:18:21 DEBUG DnaPairer:323 - nextBorder[cutpointCounter[1]16
+2022-07-19 17:18:21 DEBUG DnaPairer:360 - -13
+2022-07-19 17:18:21 DEBUG DnaPairer:407 - cleaning
+2022-07-19 17:18:21 DEBUG DnaPairer:438 -     Thought lo0
+2022-07-19 17:18:21 DEBUG DnaPairer:438 -     boolean lb1
+2022-07-19 17:18:21 DEBUG DnaPairer:438 -     Thought lo2
+2022-07-19 17:18:21 DEBUG DnaPairer:438 -     Thought lo3
+2022-07-19 17:18:21 DEBUG DnaPairer:438 -     Thought lo4
+2022-07-19 17:18:21 DEBUG DnaPairer:438 -     Thought lo5
+2022-07-19 17:18:21 DEBUG DnaPairer:323 - nextBorder[cutpointCounter[1]11
+2022-07-19 17:18:21 DEBUG DnaPairer:360 - -7
+2022-07-19 17:18:21 DEBUG DnaPairer:407 - cleaning
+2022-07-19 17:18:21 DEBUG DnaPairer:438 -     Thought lo0
+2022-07-19 17:18:21 DEBUG DnaPairer:438 -     Thought lo1
+2022-07-19 17:18:21 DEBUG DnaPairer:438 -     boolean lb2
+2022-07-19 17:18:21 DEBUG DnaPairer:438 -     double ld3
+2022-07-19 17:18:21 DEBUG DnaPairer:438 -     double ld4
+2022-07-19 17:18:21 DEBUG DnaPairer:438 -     Thought lo1
+2022-07-19 17:18:21 DEBUG DnaPairer:454 - skipped:     Thought lo1 = Thought109.getInstance(ok, ok, ok, ok, bk, bk, bk, bk);
+2022-07-19 17:18:21 DEBUG DnaPairer:438 -     boolean lb2
+2022-07-19 17:18:21 DEBUG DnaPairer:454 - skipped:     boolean lb2 = true;
+2022-07-19 17:18:21 DEBUG DnaPairer:438 -     boolean lb3
+2022-07-19 17:18:21 DEBUG DnaPairer:438 -     boolean lb4
+2022-07-19 17:18:21 DEBUG DnaPairer:323 - nextBorder[cutpointCounter[1]5
+2022-07-19 17:18:21 DEBUG DnaPairer:360 - -13
+2022-07-19 17:18:21 DEBUG DnaPairer:407 - cleaning
+2022-07-19 17:18:21 DEBUG DnaPairer:438 -         boolean lb4
+2022-07-19 17:18:21 DEBUG DnaPairer:438 -         boolean lb5
+2022-07-19 17:18:21 DEBUG DnaPairer:438 -         double ld6
+2022-07-19 17:18:21 DEBUG DnaPairer:438 -         double ld7
+2022-07-19 17:18:21 DEBUG DnaPairer:438 -         double ld8
+2022-07-19 17:18:21 DEBUG DnaPairer:323 - nextBorder[cutpointCounter[1]12
+2022-07-19 17:18:21 DEBUG DnaPairer:360 - -12
+2022-07-19 17:18:21 DEBUG DnaPairer:407 - cleaning
+2022-07-19 17:18:21 DEBUG DnaPairer:438 -     Thought lo0
+2022-07-19 17:18:21 DEBUG DnaPairer:438 -     Thought lo1
+2022-07-19 17:18:21 DEBUG DnaPairer:438 -     Thought lo5
+2022-07-19 17:18:21 DEBUG DnaPairer:438 -     boolean lb6
+2022-07-19 17:18:21 DEBUG DnaPairer:438 -     boolean lb7
+2022-07-19 17:18:21 DEBUG DnaPairer:438 -     double ld8
+2022-07-19 17:18:21 DEBUG DnaPairer:438 -     double ld9
+2022-07-19 17:18:21 DEBUG DnaPairer:323 - nextBorder[cutpointCounter[1]10
+2022-07-19 17:18:21 DEBUG DnaPairer:360 - -7
+2022-07-19 17:18:21 DEBUG DnaPairer:407 - cleaning
+2022-07-19 17:18:21 DEBUG DnaPairer:438 -         Thought lo0
+2022-07-19 17:18:21 DEBUG DnaPairer:438 -         boolean lb1
+2022-07-19 17:18:21 DEBUG DnaPairer:323 - nextBorder[cutpointCounter[1]5
+2022-07-19 17:18:21 DEBUG DnaPairer:360 - -9
+2022-07-19 17:18:21 DEBUG DnaPairer:407 - cleaning
+2022-07-19 17:18:21 DEBUG DnaPairer:438 -     boolean lb2
+2022-07-19 17:18:21 DEBUG DnaPairer:438 -     boolean lb3
+2022-07-19 17:18:21 DEBUG DnaPairer:323 - nextBorder[cutpointCounter[1]7
+2022-07-19 17:18:21 DEBUG DnaPairer:360 - -13
+2022-07-19 17:18:21 DEBUG DnaPairer:407 - cleaning
+2022-07-19 17:18:21 DEBUG DnaPairer:438 -     Thought lo0
+2022-07-19 17:18:21 DEBUG DnaPairer:438 -     boolean lb1
+2022-07-19 17:18:21 DEBUG DnaPairer:438 -         double ld5
+2022-07-19 17:18:21 DEBUG DnaPairer:438 -         double ld6
+2022-07-19 17:18:21 DEBUG DnaPairer:438 -         boolean lb7
+2022-07-19 17:18:21 DEBUG DnaPairer:438 -         Thought lo8
+2022-07-19 17:18:21 DEBUG DnaPairer:323 - nextBorder[cutpointCounter[1]17
+2022-07-19 17:18:21 DEBUG DnaPairer:360 - -9
+2022-07-19 17:18:21 DEBUG DnaPairer:407 - cleaning
+2022-07-19 17:18:21 DEBUG DnaPairer:438 -     Thought lo0
+2022-07-19 17:18:21 DEBUG DnaPairer:438 -     boolean lb0
+2022-07-19 17:18:21 DEBUG DnaPairer:438 -     Thought lo1
+2022-07-19 17:18:21 DEBUG DnaPairer:323 - nextBorder[cutpointCounter[1]5
+2022-07-19 17:18:21 DEBUG DnaPairer:360 - -6
+2022-07-19 17:18:21 DEBUG DnaPairer:407 - cleaning
+2022-07-19 17:18:21 DEBUG DnaPairer:438 -     double ld0
+2022-07-19 17:18:21 DEBUG DnaPairer:438 -     boolean lb1
+2022-07-19 17:18:21 DEBUG DnaPairer:438 -     boolean lb0
+2022-07-19 17:18:21 DEBUG DnaPairer:323 - nextBorder[cutpointCounter[1]24
+2022-07-19 17:18:21 DEBUG DnaPairer:360 - -6
+2022-07-19 17:18:21 DEBUG DnaPairer:407 - cleaning
+2022-07-19 17:18:21 DEBUG DnaPairer:438 -     double ld0
+2022-07-19 17:18:21 DEBUG DnaPairer:438 -     double ld1
+2022-07-19 17:18:21 DEBUG DnaPairer:438 -     Thought lo2
+2022-07-19 17:18:21 DEBUG DnaPairer:438 -     Thought lo3
+2022-07-19 17:18:21 DEBUG DnaPairer:438 -     boolean lb4
+2022-07-19 17:18:21 DEBUG DnaPairer:438 -     boolean lb5
+2022-07-19 17:18:21 DEBUG DnaPairer:438 -     boolean lb2
+2022-07-19 17:18:21 DEBUG DnaPairer:438 -     boolean lb3
+2022-07-19 17:18:21 DEBUG DnaPairer:323 - nextBorder[cutpointCounter[1]6
+2022-07-19 17:18:21 DEBUG DnaPairer:360 - -7
+2022-07-19 17:18:21 DEBUG DnaPairer:407 - cleaning
+2022-07-19 17:18:21 DEBUG DnaPairer:438 -     Thought lo0
+2022-07-19 17:18:21 DEBUG DnaPairer:438 -     Thought lo1
+2022-07-19 17:18:21 DEBUG DnaPairer:438 -     Thought lo2
+2022-07-19 17:18:21 DEBUG DnaPairer:438 -     boolean lb3
+2022-07-19 17:18:21 DEBUG DnaPairer:438 -     Thought lo4
+2022-07-19 17:18:21 DEBUG DnaPairer:438 -         Thought lo5
+2022-07-19 17:18:21 DEBUG DnaPairer:323 - nextBorder[cutpointCounter[1]12
+2022-07-19 17:18:21 DEBUG DnaPairer:360 - -11
+2022-07-19 17:18:21 DEBUG DnaPairer:407 - cleaning
+2022-07-19 17:18:21 DEBUG DnaPairer:438 -     Thought lo0
+2022-07-19 17:18:21 DEBUG DnaPairer:438 -     boolean lb1
+2022-07-19 17:18:21 DEBUG DnaPairer:438 -     boolean lb2
+2022-07-19 17:18:21 DEBUG DnaPairer:323 - nextBorder[cutpointCounter[1]8
+2022-07-19 17:18:21 DEBUG DnaPairer:360 - -20
+2022-07-19 17:18:21 DEBUG DnaPairer:407 - cleaning
+2022-07-19 17:18:21 DEBUG DnaPairer:438 -     double ld0
+2022-07-19 17:18:21 DEBUG DnaPairer:438 -     double ld5
+2022-07-19 17:18:21 DEBUG DnaPairer:438 -     boolean lb6
+2022-07-19 17:18:21 DEBUG DnaPairer:323 - nextBorder[cutpointCounter[1]14
+2022-07-19 17:18:21 DEBUG DnaPairer:360 - -11
+2022-07-19 17:18:21 DEBUG DnaPairer:407 - cleaning
+2022-07-19 17:18:21 DEBUG DnaPairer:438 -     double ld0
+2022-07-19 17:18:21 DEBUG DnaPairer:438 -     Thought lo1
+2022-07-19 17:18:21 DEBUG DnaPairer:438 -     double ld2
+2022-07-19 17:18:21 DEBUG DnaPairer:323 - nextBorder[cutpointCounter[1]6
+2022-07-19 17:18:21 DEBUG DnaPairer:360 - -9
+2022-07-19 17:18:21 DEBUG DnaPairer:407 - cleaning
+2022-07-19 17:18:21 DEBUG DnaPairer:438 -     Thought lo0
+2022-07-19 17:18:21 DEBUG DnaPairer:438 -         boolean lb4
+2022-07-19 17:18:21 DEBUG DnaPairer:323 - nextBorder[cutpointCounter[1]14
+2022-07-19 17:18:21 DEBUG DnaPairer:360 - -15
+2022-07-19 17:18:21 DEBUG DnaPairer:407 - cleaning
+2022-07-19 17:18:21 DEBUG DnaPairer:438 -     boolean lb0
+2022-07-19 17:18:21 DEBUG DnaPairer:438 -     Thought lo1
+2022-07-19 17:18:21 DEBUG DnaPairer:438 -     boolean lb2
+2022-07-19 17:18:21 DEBUG DnaPairer:438 -     double ld3
+2022-07-19 17:18:21 DEBUG DnaPairer:438 -     Thought lo4
+2022-07-19 17:18:21 DEBUG DnaPairer:438 -     boolean lb3
+2022-07-19 17:18:21 DEBUG DnaPairer:323 - nextBorder[cutpointCounter[1]18
+2022-07-19 17:18:21 DEBUG DnaPairer:360 - -5
+2022-07-19 17:18:21 DEBUG DnaPairer:407 - cleaning
+2022-07-19 17:18:21 DEBUG DnaPairer:438 -     boolean lb0
+2022-07-19 17:18:21 DEBUG DnaPairer:438 -     double ld1
+2022-07-19 17:18:21 DEBUG DnaPairer:438 -     boolean lb2
+2022-07-19 17:18:21 DEBUG DnaPairer:438 -     Thought lo3
+2022-07-19 17:18:21 DEBUG DnaPairer:438 -     boolean lb0
+2022-07-19 17:18:21 DEBUG DnaPairer:454 - skipped:     boolean lb0 = false;
+2022-07-19 17:18:21 DEBUG DnaPairer:323 - nextBorder[cutpointCounter[1]5
+2022-07-19 17:18:21 DEBUG DnaPairer:360 - -12
+2022-07-19 17:18:21 DEBUG DnaPairer:407 - cleaning
+2022-07-19 17:18:21 DEBUG DnaPairer:438 -     boolean lb0
+2022-07-19 17:18:21 DEBUG DnaPairer:438 -     double ld1
+2022-07-19 17:18:21 DEBUG DnaPairer:438 -         Thought lo1
+2022-07-19 17:18:21 DEBUG DnaPairer:438 -         double ld2
+2022-07-19 17:18:21 DEBUG DnaPairer:438 -         boolean lb3
+2022-07-19 17:18:21 DEBUG DnaPairer:438 -         Thought lo4
+2022-07-19 17:18:21 DEBUG DnaPairer:438 -         boolean lb5
+2022-07-19 17:18:21 DEBUG DnaPairer:438 -         Thought lo6
+2022-07-19 17:18:21 DEBUG DnaPairer:438 -         double ld7
+2022-07-19 17:18:21 DEBUG DnaPairer:323 - nextBorder[cutpointCounter[1]17
+2022-07-19 17:18:21 DEBUG DnaPairer:360 - -8
+2022-07-19 17:18:21 DEBUG DnaPairer:407 - cleaning
+2022-07-19 17:18:21 DEBUG DnaPairer:438 -     Thought lo0
+2022-07-19 17:18:21 DEBUG DnaPairer:438 -     Thought lo1
+2022-07-19 17:18:21 DEBUG DnaPairer:438 -     Thought lo2
+2022-07-19 17:18:21 DEBUG DnaPairer:438 -         boolean lb2
+2022-07-19 17:18:21 DEBUG DnaPairer:323 - nextBorder[cutpointCounter[1]11
+2022-07-19 17:18:21 DEBUG DnaPairer:360 - -23
+2022-07-19 17:18:21 DEBUG DnaPairer:407 - cleaning
+2022-07-19 17:18:21 DEBUG DnaPairer:438 -     boolean lb0
+2022-07-19 17:18:21 DEBUG DnaPairer:438 -     Thought lo1
+2022-07-19 17:18:21 DEBUG DnaPairer:438 -         double ld3
+2022-07-19 17:18:21 DEBUG DnaPairer:438 -         double ld4
+2022-07-19 17:18:21 DEBUG DnaPairer:323 - nextBorder[cutpointCounter[1]7
+2022-07-19 17:18:21 DEBUG DnaPairer:360 - -7
+2022-07-19 17:18:21 DEBUG DnaPairer:407 - cleaning
+2022-07-19 17:18:21 DEBUG DnaPairer:438 -     boolean lb0
+2022-07-19 17:18:21 DEBUG DnaPairer:438 -     double ld1
+2022-07-19 17:18:21 DEBUG DnaPairer:323 - nextBorder[cutpointCounter[1]5
+2022-07-19 17:18:21 DEBUG DnaPairer:360 - -7
+2022-07-19 17:18:21 DEBUG DnaPairer:407 - cleaning
+2022-07-19 17:18:21 DEBUG DnaPairer:438 -     Thought lo0
+2022-07-19 17:18:21 DEBUG DnaPairer:438 -     double ld0
+2022-07-19 17:18:21 DEBUG DnaPairer:438 -     double ld1
+2022-07-19 17:18:21 DEBUG DnaPairer:323 - nextBorder[cutpointCounter[1]6
+2022-07-19 17:18:21 DEBUG DnaPairer:360 - -13
+2022-07-19 17:18:21 DEBUG DnaPairer:407 - cleaning
+2022-07-19 17:18:21 DEBUG DnaPairer:438 -     boolean lb3
+2022-07-19 17:18:21 DEBUG DnaPairer:438 -     Thought lo4
+2022-07-19 17:18:21 DEBUG DnaPairer:438 -         double ld5
+2022-07-19 17:18:21 DEBUG DnaPairer:323 - nextBorder[cutpointCounter[1]14
+2022-07-19 17:18:21 DEBUG DnaPairer:360 - -8
+2022-07-19 17:18:21 DEBUG DnaPairer:407 - cleaning
+2022-07-19 17:18:21 DEBUG DnaPairer:438 -     boolean lb0
+2022-07-19 17:18:21 DEBUG DnaPairer:323 - nextBorder[cutpointCounter[1]14
+2022-07-19 17:18:21 DEBUG DnaPairer:360 - -10
+2022-07-19 17:18:21 DEBUG DnaPairer:407 - cleaning
+2022-07-19 17:18:21 DEBUG DnaPairer:438 -     double ld0
+2022-07-19 17:18:21 DEBUG DnaPairer:438 -     Thought lo1
+2022-07-19 17:18:21 DEBUG DnaPairer:438 -         boolean lb2
+2022-07-19 17:18:21 DEBUG DnaPairer:438 -     double ld2
+2022-07-19 17:18:21 DEBUG DnaPairer:438 -     boolean lb3
+2022-07-19 17:18:21 DEBUG DnaPairer:438 -     Thought lo4
+2022-07-19 17:18:21 DEBUG DnaPairer:438 -     double ld5
+2022-07-19 17:18:21 DEBUG DnaPairer:323 - nextBorder[cutpointCounter[1]11
+2022-07-19 17:18:21 DEBUG DnaPairer:360 - -17
+2022-07-19 17:18:21 DEBUG DnaPairer:407 - cleaning
+2022-07-19 17:18:21 DEBUG DnaPairer:438 -         boolean lb0
+2022-07-19 17:18:21 DEBUG DnaPairer:438 -         Thought lo4
+2022-07-19 17:18:21 DEBUG DnaPairer:323 - nextBorder[cutpointCounter[1]8
+2022-07-19 17:18:21 DEBUG DnaPairer:360 - -15
+2022-07-19 17:18:21 DEBUG DnaPairer:407 - cleaning
+2022-07-19 17:18:21 DEBUG DnaPairer:438 -     boolean lb0
+2022-07-19 17:18:21 DEBUG DnaPairer:438 -     boolean lb1
+2022-07-19 17:18:21 DEBUG DnaPairer:438 -     Thought lo3
+2022-07-19 17:18:21 DEBUG DnaPairer:438 -     Thought lo4
+2022-07-19 17:18:21 DEBUG DnaPairer:323 - nextBorder[cutpointCounter[1]7
+2022-07-19 17:18:21 DEBUG DnaPairer:360 - -11
+2022-07-19 17:18:21 DEBUG DnaPairer:407 - cleaning
+2022-07-19 17:18:21 DEBUG DnaPairer:438 -     Thought lo1
+2022-07-19 17:18:21 DEBUG DnaPairer:323 - nextBorder[cutpointCounter[1]5
+2022-07-19 17:18:21 DEBUG DnaPairer:360 - -7
+2022-07-19 17:18:21 DEBUG DnaPairer:407 - cleaning
+2022-07-19 17:18:21 DEBUG DnaPairer:438 -     Thought lo0
+2022-07-19 17:18:21 DEBUG DnaPairer:438 -         boolean lb1
+2022-07-19 17:18:21 DEBUG DnaPairer:323 - nextBorder[cutpointCounter[1]14
+2022-07-19 17:18:21 DEBUG DnaPairer:360 - -5
+2022-07-19 17:18:21 DEBUG DnaPairer:407 - cleaning
+2022-07-19 17:18:21 DEBUG DnaPairer:438 -         boolean lb0
+2022-07-19 17:18:21 DEBUG DnaPairer:438 -         Thought lo1
+2022-07-19 17:18:21 DEBUG DnaPairer:438 -         Thought lo2
+2022-07-19 17:18:21 DEBUG DnaPairer:438 -         boolean lb3
+2022-07-19 17:18:21 DEBUG DnaPairer:438 -     boolean lb1
+2022-07-19 17:18:21 DEBUG DnaPairer:323 - nextBorder[cutpointCounter[1]12
+2022-07-19 17:18:21 DEBUG DnaPairer:360 - -7
+2022-07-19 17:18:21 DEBUG DnaPairer:407 - cleaning
+2022-07-19 17:18:21 DEBUG DnaPairer:438 -     boolean lb0
+2022-07-19 17:18:21 DEBUG DnaPairer:438 -     boolean lb1
+2022-07-19 17:18:21 DEBUG DnaPairer:438 -         Thought lo1
+2022-07-19 17:18:21 DEBUG DnaPairer:438 -         double ld2
+2022-07-19 17:18:21 DEBUG DnaPairer:438 -         Thought lo3
+2022-07-19 17:18:21 DEBUG DnaPairer:438 -         boolean lb4
+2022-07-19 17:18:21 DEBUG DnaPairer:323 - nextBorder[cutpointCounter[1]9
+2022-07-19 17:18:21 DEBUG DnaPairer:360 - -5
+2022-07-19 17:18:21 DEBUG DnaPairer:407 - cleaning
+2022-07-19 17:18:21 DEBUG DnaPairer:438 -     Thought lo0
+2022-07-19 17:18:21 DEBUG DnaPairer:438 -     boolean lb1
+2022-07-19 17:18:21 DEBUG DnaPairer:438 -     boolean lb4
+2022-07-19 17:18:21 DEBUG DnaPairer:438 -     Thought lo5
+2022-07-19 17:18:21 DEBUG DnaPairer:438 -     Thought lo6
+2022-07-19 17:18:21 DEBUG DnaPairer:438 -     double ld7
+2022-07-19 17:18:21 DEBUG DnaPairer:438 -     boolean lb8
+2022-07-19 17:18:21 DEBUG DnaPairer:438 -         Thought lo9
+2022-07-19 17:18:21 DEBUG DnaPairer:323 - nextBorder[cutpointCounter[1]11
+2022-07-19 17:18:21 DEBUG DnaPairer:360 - -13
+2022-07-19 17:18:21 DEBUG DnaPairer:407 - cleaning
+2022-07-19 17:18:21 DEBUG DnaPairer:438 -     double ld0
+2022-07-19 17:18:21 DEBUG DnaPairer:438 -     boolean lb1
+2022-07-19 17:18:21 DEBUG DnaPairer:438 -     boolean lb2
+2022-07-19 17:18:21 DEBUG DnaPairer:438 -     Thought lo3
+2022-07-19 17:18:21 DEBUG DnaPairer:438 -     Thought lo4
+2022-07-19 17:18:21 DEBUG DnaPairer:438 -     boolean lb5
+2022-07-19 17:18:21 DEBUG DnaPairer:323 - nextBorder[cutpointCounter[1]6
+2022-07-19 17:18:21 DEBUG DnaPairer:360 - -9
+2022-07-19 17:18:21 DEBUG DnaPairer:407 - cleaning
+2022-07-19 17:18:21 DEBUG DnaPairer:438 -     boolean lb0
+2022-07-19 17:18:21 DEBUG DnaPairer:438 -     Thought lo1
+2022-07-19 17:18:21 DEBUG DnaPairer:438 -         boolean lb2
+2022-07-19 17:18:21 DEBUG DnaPairer:438 -         boolean lb3
+2022-07-19 17:18:21 DEBUG DnaPairer:438 -         boolean lb4
+2022-07-19 17:18:21 DEBUG DnaPairer:323 - nextBorder[cutpointCounter[1]5
+2022-07-19 17:18:22 DEBUG DnaPairer:360 - -7
+2022-07-19 17:18:22 DEBUG DnaPairer:407 - cleaning
+2022-07-19 17:18:22 DEBUG DnaPairer:438 -     boolean lb0
+2022-07-19 17:18:22 DEBUG DnaPairer:438 -     double ld2
+2022-07-19 17:18:22 DEBUG DnaPairer:438 -     boolean lb3
+2022-07-19 17:18:22 DEBUG DnaPairer:438 -         boolean lb4
+2022-07-19 17:18:22 DEBUG DnaPairer:323 - nextBorder[cutpointCounter[1]12
+2022-07-19 17:18:22 DEBUG DnaPairer:360 - -8
+2022-07-19 17:18:22 DEBUG DnaPairer:407 - cleaning
+2022-07-19 17:18:22 DEBUG DnaPairer:438 -     boolean lb0
+2022-07-19 17:18:22 DEBUG DnaPairer:438 -     Thought lo1
+2022-07-19 17:18:22 DEBUG DnaPairer:438 -     Thought lo2
+2022-07-19 17:18:22 DEBUG DnaPairer:438 -     boolean lb1
+2022-07-19 17:18:22 DEBUG DnaPairer:438 -     boolean lb2
+2022-07-19 17:18:22 DEBUG DnaPairer:438 -     double ld3
+2022-07-19 17:18:22 DEBUG DnaPairer:438 -     boolean lb4
+2022-07-19 17:18:22 DEBUG DnaPairer:438 -     Thought lo5
+2022-07-19 17:18:22 DEBUG DnaPairer:323 - nextBorder[cutpointCounter[1]8
+2022-07-19 17:18:22 DEBUG DnaPairer:360 - -16
+2022-07-19 17:18:22 DEBUG DnaPairer:407 - cleaning
+2022-07-19 17:18:22 DEBUG DnaPairer:438 -     double ld1
+2022-07-19 17:18:22 DEBUG DnaPairer:323 - nextBorder[cutpointCounter[1]14
+2022-07-19 17:18:22 DEBUG DnaPairer:360 - -10
+2022-07-19 17:18:22 DEBUG DnaPairer:407 - cleaning
+2022-07-19 17:18:22 DEBUG DnaPairer:438 -     boolean lb0
+2022-07-19 17:18:22 DEBUG DnaPairer:438 -     boolean lb1
+2022-07-19 17:18:22 DEBUG DnaPairer:323 - nextBorder[cutpointCounter[1]10
+2022-07-19 17:18:22 DEBUG DnaPairer:360 - -7
+2022-07-19 17:18:22 DEBUG DnaPairer:407 - cleaning
+2022-07-19 17:18:22 DEBUG DnaPairer:438 -     boolean lb0
+2022-07-19 17:18:22 DEBUG DnaPairer:438 -         double ld1
+2022-07-19 17:18:22 DEBUG DnaPairer:438 -         Thought lo2
+2022-07-19 17:18:22 DEBUG DnaPairer:438 -     Thought lo3
+2022-07-19 17:18:22 DEBUG DnaPairer:438 -     double ld4
+2022-07-19 17:18:22 DEBUG DnaPairer:438 -     boolean lb5
+2022-07-19 17:18:22 DEBUG DnaPairer:323 - nextBorder[cutpointCounter[1]13
+2022-07-19 17:18:22 DEBUG DnaPairer:360 - -14
+2022-07-19 17:18:22 DEBUG DnaPairer:407 - cleaning
+2022-07-19 17:18:22 DEBUG DnaPairer:438 -     boolean lb0
+2022-07-19 17:18:22 DEBUG DnaPairer:438 -     boolean lb1
+2022-07-19 17:18:22 DEBUG DnaPairer:438 -     double ld2
+2022-07-19 17:18:22 DEBUG DnaPairer:438 -     boolean lb3
+2022-07-19 17:18:22 DEBUG DnaPairer:438 -     boolean lb8
+2022-07-19 17:18:22 DEBUG DnaPairer:438 -     Thought lo9
