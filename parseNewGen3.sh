@@ -1,7 +1,7 @@
 
 before=$(date)
 
-counter=1
+counter=101
 
 for i in ../gens/$1/mutated/*
 do

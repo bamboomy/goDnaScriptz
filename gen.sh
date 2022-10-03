@@ -8,7 +8,7 @@ cd ../gens/$1/children/
 cd ../../../scriptz/
 ./mut.sh $1
 before=$(date)
-./parseNewGen2.sh $1
+./parseNewGen.sh $1
 if [ $? -ne 0 ]
 then
 	exit -1

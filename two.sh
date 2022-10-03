@@ -11,6 +11,8 @@ java -jar ../../../jars/parser.jar
 ./insert.sh
 cd src
 
+echo $1 $2 $3
+
 javac -cp .:../lib/log4j-1.2.17.jar */*.java */*/*/*/*.java */*/*/*/*/*.java
 
 if [ $? -ne 0 ]

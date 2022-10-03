@@ -12,6 +12,11 @@ java -jar ../../../jars/parser.jar
 cd src
 
 javac -cp .:../lib/log4j-1.2.17.jar */*.java */*/*/*/*.java */*/*/*/*/*.java
+
+if [ $? -ne 0 ]
+then
+	exit -1
+fi
        
 jar cvfe dummy.jar net.sf.gogui.tools.dummy.Main */*.class */*/*/*/*.class */*/*/*/*/*.class
 
